@@ -1,0 +1,17 @@
+python main.py 
+Enter Tse (End effector) initial configuration
+[theta, x, y, J1, J2, J3, J4, J5] : [math.pi/2, 0.0, 0.0, 0.0, -0.35, -0.698, -0.505, 0.0, 0.0, 0.0, 0.0, 0.0]
+Enter Tsc (Cube) initial configuration
+ [x, y, theta] : [0.7, 0.7, math.pi/4]                
+Enter Tsc (Cube) goal configuration
+ [x, y, theta] : [0, 0, math.pi]
+Enter Feedback Controller gains [kp, ki] : [0.18, 0.00015]
+Initial End Effector configuration Error (Theta_x, Theta_y, Theta_z, x, y, z):
+[ 1.196  0.375 -1.218 -0.    -0.587  0.037]
+Generating trajectory
+Generating youBot trajectory controls. Progress 99.94%
+Final Error (Xerr : Wx, Wy, Wz, Vx, Vy, Vz) : 
+[-6.50e-03 -8.00e-05  1.00e-04  2.10e-04  1.92e-03  1.90e-03]
+youBot_Trajectory written to CSV
+trajectory_Xerr written to CSV
+

@@ -1,0 +1,14 @@
+# Start position
+-0.5, -0.5
+# Goal position
+0.5, 0.5
+# Robot Diameter
+0.12
+# Sample Resolution
+0.1
+# Proximity Threshold
+0.4
+# Optional- motionSpace
+# The diagonal end point coordinates of the
+# rectangle consisting of the motion space
+# Ex : -0.5, -0.5, 0.5, 0.5

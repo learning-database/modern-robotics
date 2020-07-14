@@ -1,0 +1,47 @@
+Starting Inverse Kinematic Calculation in Body Frame, with initial joint vector:  [ 2.512 -1.326  1.954 -0.488  5.582 -1.465]
+========== Iteration  0  ==========
+Joint Vector:  [ 2.512 -1.326  1.954 -0.488  5.582 -1.465]
+SE(3) end-effector config: 
+[[ 0.217  0.974  0.066 -0.388]
+ [-0.074  0.084 -0.994  0.07 ]
+ [-0.973  0.211  0.09   0.184]
+ [ 0.     0.     0.     1.   ]]
+Error twist V_b: 
+[ 0.076  0.083 -0.216  0.071 -0.12  -0.038]
+Angular error magnitude ||omega_b||:  0.2433247132853021
+Linear error magnitude ||v_b||:  0.14398079251052875
+========== Iteration  1  ==========
+Joint Vector:  [ 2.60954433 -1.00471097  1.80500322 -0.78404698  5.74549089 -1.59506633]
+SE(3) end-effector config: 
+[[-0.01   1.     0.006 -0.485]
+ [-0.008  0.006 -1.     0.077]
+ [-1.    -0.01   0.008  0.072]
+ [ 0.     0.     0.     1.   ]]
+Error twist V_b: 
+[ 0.006  0.008  0.01  -0.028 -0.015 -0.022]
+Angular error magnitude ||omega_b||:  0.01436666400366477
+Linear error magnitude ||v_b||:  0.038798298734785006
+========== Iteration  2  ==========
+Joint Vector:  [ 2.5849086  -1.02147923  1.73111857 -0.7100985   5.72660443 -1.57022065]
+SE(3) end-effector config: 
+[[ 0.     1.    -0.    -0.499]
+ [ 0.    -0.    -1.     0.1  ]
+ [-1.     0.    -0.     0.101]
+ [ 0.     0.     0.     1.   ]]
+Error twist V_b: 
+[-0.    -0.    -0.     0.001 -0.002 -0.   ]
+Angular error magnitude ||omega_b||:  0.00032253225354886755
+Linear error magnitude ||v_b||:  0.0018334210038197037
+========== Iteration  3  ==========
+Joint Vector:  [ 2.58619209 -1.01703439  1.72693186 -0.70989832  5.72778482 -1.5707953 ]
+SE(3) end-effector config: 
+[[ 0.   1.  -0.  -0.5]
+ [ 0.  -0.  -1.   0.1]
+ [-1.   0.  -0.   0.1]
+ [ 0.   0.   0.   1. ]]
+Error twist V_b: 
+[-0. -0. -0. -0. -0. -0.]
+Angular error magnitude ||omega_b||:  5.441374634600261e-07
+Linear error magnitude ||v_b||:  4.818917856980751e-06
+Inverse Kinematics Converged Successfully
+

@@ -1,0 +1,8 @@
+#### This program will check if a given planar body is in form closure with respect to a given set of stationary contacts ####
+
+Enter the list contact points. Each element should be of format (x,y,theta):
+(x,y) contact location and the direction of the contact normal specified by theta(radians)
+	i.e. [[1,2,0],[2,-2,3.14]]
+Contacts List: [[3,5,4.712],[3,5,0.785],[12,5,2.356]]
+Form closure fail
+
